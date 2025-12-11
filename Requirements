@@ -1,0 +1,16 @@
+# Core scientific & ML libraries
+numpy
+pandas
+scikit-learn
+
+# Visualization libraries
+matplotlib
+seaborn
+
+# Jupyter notebook support
+jupyter
+notebook
+
+# Optional but useful extras
+scipy
+joblib
